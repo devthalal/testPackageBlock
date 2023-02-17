@@ -1,0 +1,9 @@
+{
+  "name": "testPackageBlock",
+  "type": "package",
+  "blockId": "jiHzkRu0-TX_p933QG7CY",
+  "source": {
+    "https": "https://github.com/devthalal/testPackageBlock",
+    "ssh": "git@github.com:devthalal/testPackageBlock.git"
+  }
+}
